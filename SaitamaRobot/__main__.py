@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
-Build by weebs for weebs, I specialize in managing anime and similar themed groups.
+Build by a weeb for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
 """
 
@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/5480c2bb0aef9d8715e76.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/8f2b53c5be027eb4c33b1.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -222,8 +222,8 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add Zerotwo to your group",
-                                url="t.me/{}?startgroup=true".format(
+                                text="☑️ Add Roronoa Zoro to your group",
+                                url="t.me/Roronoa_Zoro_Robot?startgroup=true".format(
                                     context.bot.username
                                 ),
                             )
@@ -231,23 +231,23 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                url=f"https://t.me/AnimaxChatZone",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/ZerotwoUpdate",
+                                url="https://t.me/Weetaku_Anime",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/Zerotwoupdate",
+                                url="https://t.me/Weetaku_Anime",
                             )
                         ],
                         [
                             InlineKeyboardButton(
                                 text="🗄 Logs",
-                                url="https://t.me/Zerotwolog",
+                                url="https://t.me/ZoroLogs",
                             )
                         ],
                     ]
