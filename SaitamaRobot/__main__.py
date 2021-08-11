@@ -81,7 +81,7 @@ You can find my list of available commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Three Sword Guy I can help admins to hadle the group as smoothly as i handle my Sword! Have a look at the following for an idea of some of \
+I'm a Three Sword Guy I can help admins to hadle the group as smoothly as I handle my Sword! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -231,7 +231,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/Zorologs",
+                                url=f"https://t.me/AnimaxChatZone",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
