@@ -96,7 +96,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/8f2b53c5be027eb4c33b1.jpg"
+SAITAMA_IMG = "https://i.pinimg.com/originals/1e/ba/8e/1eba8e36ad874030ed926c1c8f6bb7c9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -219,7 +219,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="☑️ Add Roronoa Zoro to your group",
-                                url="t.me/Roronoa_Zoro_Robot?startgroup=true".format(
+                                url="t.me/Rias_Chatbot?startgroup=true".format(
                                     context.bot.username
                                 ),
                             )
@@ -242,8 +242,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🗄 Logs",
-                                url="https://t.me/ZoroLogs",
+                                text="Anime Channel",
+                                url="https://t.me/Animax_Industry",
                             )
                         ],
                     ]
