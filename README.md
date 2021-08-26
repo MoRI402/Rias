@@ -7,9 +7,9 @@
 <a href="https://t.me/AnimacChatZone" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="https://t.me/Rias_ChatBot" alt="Zerotwo bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Zerotwobot-pink" /> </a>
+* Bot Link:  <a href="https://t.me/Rias_ChatBot" alt="Zerotwo bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Rias Bot-pink" /> </a>
 * News channel: 
-  <a  href="https://t.me/Weetaku_Anime" alt="Gabi Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-zerotwo%20Log%20Channel-9cf" /> </a>
+  <a  href="https://t.me/Weetaku_Anime" alt="Gabi Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Rias%20Log%20Channel-9cf" /> </a>
 
 🦋 A modular Telegram Python bot made with [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) as a base. 
 
