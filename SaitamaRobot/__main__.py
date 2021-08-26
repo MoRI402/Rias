@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add Roronoa Zoro to your group",
+                                text="🤍 Add me To Group and Have Fun 🤍",
                                 url="t.me/Rias_Chatbot?startgroup=true".format(
                                     context.bot.username
                                 ),
