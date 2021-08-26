@@ -96,7 +96,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://i.pinimg.com/originals/1e/ba/8e/1eba8e36ad874030ed926c1c8f6bb7c9.jpg"
+SAITAMA_IMG = "https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
